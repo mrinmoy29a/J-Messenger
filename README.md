@@ -1,2 +1,2 @@
 # J-Messenger
-Console based messaging client using only Java socket programming. Currently allows only two users.
+Console based messaging client using Java socket programming. Currently allows two users.
